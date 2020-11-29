@@ -1,5 +1,5 @@
-# Capstone_project
-## San Diego Rental House Prices in relation to Venues
+# Capstone project:
+# San Diego Rental House Prices in relation to Venues
 ### Author: James Lee
 
 ## 1. Background
