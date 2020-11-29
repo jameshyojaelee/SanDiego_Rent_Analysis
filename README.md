@@ -1,5 +1,5 @@
 # Capstone_project
-## San Diego Housing Price
+## San Diego Housing Prices in relation to Venues
 ### Author: James Lee
 
 ## 1. Background
