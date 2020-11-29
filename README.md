@@ -1,10 +1,10 @@
 # Capstone project:
-# San Diego Rental House Prices in relation to Venues
+# La Jolla Rent cost in relation to Venues
 ### Author: James Lee
 
 ## 1. Background
 
-San Diego is a city on Pacific coast of California with around 1.5  million residents. Because of its warm climate and beaches, San Diego has one of the highest cost of living in California. The main purpose of this project is to take a look at the venues in San Diego and house rental prices across different areas in San Diego. 
+La Jolla is a city on Pacific coast of California with around 1.5  million residents. Because of its warm climate and beaches, San Diego has one of the highest cost of living in California. The main purpose of this project is to take a look at the venues in San Diego and house rental prices across different areas in San Diego. 
 </br> </br>
 
 
