@@ -16,7 +16,7 @@ The main purpose of this project is to analyze the relationships between the ven
 * Data for neighborhoods and zip codes are collectedfrom SANDAG. <br> 
 Link Address: https://opendata.arcgis.com/datasets/41c3a7bd375547069a78fce90153cbc0_5.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 
-<br> <br> 
+<br> 
 * The rental prices dataset was obtained from Zillow. The particular dataset does not include raw rental prices. The values are weighted to rental housing stock to ensure representativeness acorss the entire market. The values are caculated so that they fall into the 40-60th percentile rnage for all rents in a given region in order to represent the average rent prices.
 <br>
 Link Address: http://files.zillowstatic.com/research/public_v2/zori/Metro_ZORI_AllHomesPlusMultifamily_SSA.csv  
