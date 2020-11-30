@@ -1,5 +1,4 @@
-# Capstone project:
-# La Jolla Rental House Prices in relation to Venues
+# San Diego Rent Analysis
 ### Author: James Lee
 
 ## 1. Background
