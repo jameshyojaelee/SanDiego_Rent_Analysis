@@ -1,19 +1,26 @@
 # Capstone project:
-# La Jolla Rent cost in relation to Venues
+# La Jolla Rental House Prices in relation to Venues
 ### Author: James Lee
 
 ## 1. Background
 
-La Jolla is a city on Pacific coast of California with around 1.5  million residents. Because of its warm climate and beaches, San Diego has one of the highest cost of living in California. The main purpose of this project is to take a look at the venues in San Diego and house rental prices across different areas in San Diego. 
-</br> </br>
+San Diego is a city on Pacific coast of California with around 1.5  million residents. Because of its warm climate and beaches, San Diego has one of the highest cost of living in California. La Jolla is a seaside neighborhood where UC San Diego is located at and has an even higher cost of living compared to other parts of San Diego. <br> 
+
+The main purpose of this project is to analyze the relationships between the venues and rental prices across different areas near UCSD.
+<br> 
 
 
 ## 2. Dataset
 
-* I will be obtaining all the data for locations and venues in San Diego through **Foursquare API**.
-</br> </br>
-* The rental prices dataset was obtained from Zillow. The particular dataset does not include raw rental prices. The values are weighted to rental housing stock to ensure representativeness acorss the entire market. The values are caculated so that they fall into the 40-60th percentile rnage for all rents in a given region in order to represent the average rent prices.
-</br>
-Link address: http://files.zillowstatic.com/research/public_v2/zori/Metro_ZORI_AllHomesPlusMultifamily_SSA.csv  
+* I will be obtaining all the data for venues in San Diego through **Foursquare API**.
+<br> <br> 
+* Data for neighborhoods and zip codes are collectedfrom SANDAG. <br> 
+Link Address: https://opendata.arcgis.com/datasets/41c3a7bd375547069a78fce90153cbc0_5.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 
-</br>
+<br> <br> 
+* The rental prices dataset was obtained from Zillow. The particular dataset does not include raw rental prices. The values are weighted to rental housing stock to ensure representativeness acorss the entire market. The values are caculated so that they fall into the 40-60th percentile rnage for all rents in a given region in order to represent the average rent prices.
+<br>
+Link Address: http://files.zillowstatic.com/research/public_v2/zori/Metro_ZORI_AllHomesPlusMultifamily_SSA.csv  
+
+<br>
+
