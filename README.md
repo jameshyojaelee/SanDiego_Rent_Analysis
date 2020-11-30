@@ -1,6 +1,6 @@
 # San Diego Rent Analysis
 ### Author: James Lee
-### Report['https://htmlpreview.github.io/?https://github.com/jameshyojaelee/SD_Rent_Analysis/blob/main/SD_rent_report.html]
+### [Report]('https://htmlpreview.github.io/?https://github.com/jameshyojaelee/SD_Rent_Analysis/blob/main/SD_rent_report.html)
 ## 1. Background
 
 San Diego is a city on Pacific coast of California with around 1.5  million residents. Because of its warm climate and beaches, San Diego has one of the highest cost of living in California. La Jolla is a seaside neighborhood where UC San Diego is located at and has an even higher cost of living compared to other parts of San Diego. <br> 
