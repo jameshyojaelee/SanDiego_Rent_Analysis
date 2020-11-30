@@ -24,4 +24,4 @@ Link Address: http://files.zillowstatic.com/research/public_v2/zori/Metro_ZORI_A
 <br>
 
 ## 3. Report
-Link Address: https://htmlpreview.github.io/?https://github.com/jameshyojaelee/SD_Rent_Analysis/blob/main/SD_rent_report.html
+Link Address: https://htmlpreview.github.io/?https://github.com/jameshyojaelee/SanDiego_Rent_Analysis/blob/main/SD_rent_report.html
